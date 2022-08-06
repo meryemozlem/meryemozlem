@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Python, Arduino, Cyber Security Fundamentals, HTML, CSS, javaScript, Data, Logic, Unity, Game Design applications, Microsoft Office Programs and Arduino.
 - 💞️ I would like to cooperate with Companies working in the fields I am related to.
 - 📫 You can reach me at:  
--  Linkedin:               https://tr.linkedin.com/in/meryem-%C3%B6zlem-aydo%C4%9Fan-871169209
+-  Linkedin:               https://www.linkedin.com/in/meryemozlemaydogan/
 -                          meryem.student@hotmail.com                       
 ***I am looking for a company where I can work for my summer internship.
 <!---
