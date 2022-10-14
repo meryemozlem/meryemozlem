@@ -3,7 +3,7 @@
 - 💞️ I would like to cooperate with Companies working in the fields I am related to.
 - 📫 You can reach me at:  
 -  Linkedin:               https://www.linkedin.com/in/meryemozlemaydogan/
--                          meryem.student@hotmail.com                       
+-                          || meryem.student@hotmail.com                       
 ***I am looking for a company where I can work for my summer internship.
 <!---
 meryemozlem/meryemozlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
