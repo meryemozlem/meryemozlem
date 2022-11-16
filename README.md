@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security, Game Designing, Mobile Designing and Machine Learning.
 - 💞️ I would like to cooperate with Companies working in the fields I am related to.
 - 📫 You can reach me at:  
--  Linkedin:               https://www.linkedin.com/in/meryemozlemaydogan/
+-  Linkedln:               https://www.linkedin.com/in/meryemozlemaydogan/
 -  Medium: https://medium.com/@ozdoan
 -                          |  meryem.student@hotmail.com  |                       
 ***I am looking for a company where I can work for my summer internship.
