@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meryemozlem
-- 👀 I’m interested in Cyber Security, Mobile Designing, Machine Learning and Game Designing.
+- 👀 I’m interested in Cyber Security, Mobile App Development, Machine Learning and Game Development.
 - 💞️ I would like to cooperate with Companies working in the fields I am related to.
 - 📫 You can reach me at:  
 -  Linkedln:               https://www.linkedin.com/in/meryemozlemaydogan/
