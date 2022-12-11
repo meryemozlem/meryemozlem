@@ -4,7 +4,7 @@
 - 📫 You can reach me at:  
 -  Linkedln:               https://www.linkedin.com/in/meryemozlemaydogan/
 -  Medium: https://medium.com/@ozdoan
--                          |  meryemozlemaydogan@hotmail.com  |                       
+-                          |  meryem.student@hotmail.com  |                       
 ***I am looking for a company where I can work for my summer internship.
 <!---
 meryemozlem/meryemozlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
