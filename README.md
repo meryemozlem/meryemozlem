@@ -1,6 +1,4 @@
-- 👋emaydogan/
--  Medium: https://medium.com/@ozdoan
--                          |  meryem.student@hotmail.com  |                       
+|  meryem.student@hotmail.com  |                       
 ***I am looking for a company where I can work for my summer internship.
 <!---
 meryemozlem/meryemozlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
