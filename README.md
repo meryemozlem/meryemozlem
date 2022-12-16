@@ -28,5 +28,4 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
