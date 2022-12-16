@@ -35,3 +35,9 @@ You can click the Preview link to take a look at your changes.
 [python]: https://www.python.org/
 <br />
 <br />
+
+
+
+[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
+[medium]: https://demiribrahimtalha.medium.com/
+[gmail]: mailto:demiribrahimtalha@gmail.com
