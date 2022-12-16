@@ -11,7 +11,13 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=meryemozlem&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 📩 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meryemozlemaydogan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ozdoan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meryemozlemaydogan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ozdoan) <h3 align="center">A passionate frontend developer from India</h3>
+
+- 📫 How to reach me **meryem.student@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 # 💻 Tech Stack:
