@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi, I’m @meryemozlem<br>👀 I’m interested in Cyber Security, Mobile App Development, Machine Learning and Game Development.<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>      I'm currently learning Flutter.<br>
 
 
-## 🌐 Socials:
+## 📩 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meryemozlemaydogan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ozdoan) 
 
 # 💻 Tech Stack:
@@ -47,19 +47,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=meryemozlem&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryemozlem&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-
-
-
-
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/meryemozlemaydogan/
-[medium]: https://medium.com/@ozdoan
 <br />
