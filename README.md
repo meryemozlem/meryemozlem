@@ -8,10 +8,6 @@ meryemozlem/meryemozlem is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=meryemozlem&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 📩 Connect with me:
@@ -25,5 +21,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meryemozlem&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemozlem&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
