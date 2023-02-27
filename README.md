@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @meryemozlem<br>👀 I’m interested in Cyber Security, Mobile App Development, Machine Learning and Game Development.<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>  🌱I'm currently learning Flutter.<br>
+👋 Hi, I’m @meryemozlem<br>👀 I’m interested in Cyber Security, Mobile App Development, Deep Learning and Game Development.<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>  🌱I'm currently learning Flutter.<br>
                    
 💻 I am looking for a company where I can work for my summer internship.
 <!---
