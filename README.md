@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 📫 **meryem.student@hotmail.com**
 <p align="left">
-  
 <a href="https://stackoverflow.com/users/17288589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17288589" height="30" width="40" /></a>
 
 
