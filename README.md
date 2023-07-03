@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Kaggle:<br><br>https://www.kaggle.com/mozlemaydoan</p>
+<p align="left">Kaggle:<br>https://www.kaggle.com/mozlemaydoan</p>
 
 ###
 
