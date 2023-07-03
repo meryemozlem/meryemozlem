@@ -81,9 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   
 </div>
-#![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-<br>
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/meryemozlem/count.svg?"  />
