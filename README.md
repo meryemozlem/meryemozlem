@@ -27,7 +27,7 @@
 
 ###
 <a href="https://kaggle.com/mozlemaydoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mozlemaydoan" height="30" width="40" /></a>
-<p align="left">Kaggle:<br>https://www.kaggle.com/mozlemaydoan</p>
+
 
 ###
 
