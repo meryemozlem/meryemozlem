@@ -23,10 +23,10 @@
   <a href="https://stackoverflow.com/users/17288589/meryem-ozlem-aydogan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://kaggle.com/mozlemaydoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"     
+    alt="mozlemaydoan" height="30" width="40" /></a>
 </div>
 
-###
-<a href="https://kaggle.com/mozlemaydoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mozlemaydoan" height="30" width="40" /></a>
 
 
 ###
