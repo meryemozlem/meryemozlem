@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💫 About Me:<br><br>👀 I’m interested in Deep Learning and Mobile App Development.<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>🌱I'm currently learning Flutter.<br><br>💻 I am looking for a company where I can work for my summer internship.</p>
+<p align="left">💫 About Me:<br><br>👀 I’m interested in Deep Learning and Mobile App Development.<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>🌱 I'm currently learning Flutter.<br><br>💻 I am looking for a company where I can work for my summer internship.</p>
 
 ###
 
