@@ -107,7 +107,6 @@
 ###
 
 <br clear="both">
-
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)
