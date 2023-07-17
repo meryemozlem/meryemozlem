@@ -7,8 +7,7 @@
 ###
 
 <p align="left">📩 Connect with me:
-<br>
-  <br>Mail: <br>meryemozlemaydogan@hotmail.com</p>
+<br> Mail: <br>meryemozlemaydogan@hotmail.com</p>
 
 ###
 
