@@ -31,8 +31,11 @@
   
   
 </div>
-
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/meryemozlem/count.svg?"  />
+</div>
 
 ###
 
@@ -107,6 +110,7 @@
 ###
 
 <br clear="both">
-##
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+<<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=discord&no-frame=false&no-bg=true&margin-w=4)-->
+
