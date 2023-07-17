@@ -8,7 +8,7 @@
 
 <p align="left">📩 Connect with me:
 <br>
-  <br>Mail: meryemozlemaydogan@hotmail.com</p>
+  <br>Mail: <br>meryemozlemaydogan@hotmail.com</p>
 
 ###
 
@@ -31,8 +31,6 @@
   
   
 </div>
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/meryemozlem/count.svg?"  />
 </div>
