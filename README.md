@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I’m Meryem Özlem AYDOĞAN</h1>
-<h2 align="center">💫 About Me: <br>
-  I’m interested in Mobile App Development and Deep Learning.</h2>
+<h3 align="center">💫 About Me: <br>
+  I’m interested in Mobile App Development and Deep Learning.</h3>
 
 
 - 🔭 I have worked on **Game Development, Cyber Security, Deep Learning, Backend Development and Mobile Application Development.**
