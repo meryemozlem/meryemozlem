@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋 I’m Meryem Özlem AYDOĞAN</h1>
-<h3 align="center">💫 About Me: <br>
-  I’m interested in Mobile App Development and Deep Learning.</h3>
+<h2 align="center">💫 About Me: <br>
+  I’m interested in Mobile App Development and Deep Learning.</h2>
 
-  
+  <h2>
 - 🔭 I have worked on **Game Development, Cyber Security, Deep Learning, Backend Development and Mobile Application Development.**
 - 💻 I would like to for **a company where I can work for my summer internship.**
 - 🌱 I’m currently learning **Flutter**
 
 - 📩 Connect with me: [Mail] **meryemozlemaydogan@hotmail.com**
-- 👨‍💻 All of my projects are available at **https://githubprofileviewer.com/meryemozlem**
+- 👨‍💻 All of my projects are available at **https://githubprofileviewer.com/meryemozlem**</h2>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemozlem&label=Profile%20views&color=0e75b6&style=flat" alt="meryemozlem" /> </p>
 
