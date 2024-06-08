@@ -6,6 +6,7 @@
 
 - 🔭 I have worked on **Game Development, Cyber Security, Deep Learning, Backend Development and Mobile Application Development.**
 - 💻 I would like to for **a company where I can work for my summer internship.**
+- 
 - 🌱 I’m currently learning **Flutter**
 
 - 📩 Connect with me: [Mail] **meryemozlemaydogan@hotmail.com**
