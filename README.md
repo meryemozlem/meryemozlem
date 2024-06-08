@@ -13,8 +13,6 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemozlem&label=Profile%20views&color=0e75b6&style=flat" alt="meryemozlem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meryemozlem&theme=tokyonight" alt="meryemozlem" /></a> </p>
-
 
 <div> <a href="https://www.linkedin.com/in/meryemozlemaydogan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </a>
