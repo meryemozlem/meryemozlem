@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 📩 Connect with me: [Mail] **meryemozlemaydogan@hotmail.com**
-- 👨‍💻 All of my projects are available at **https://githubprofileviewer.com/meryemozlem**
-
+- 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemozlem&label=Profile%20views&color=0e75b6&style=flat" alt="meryemozlem" /> </p>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
